@@ -10,7 +10,7 @@
 ## User actions and Features
 To use attributes on this page click the words at the top right to take you to the attributing areas.
 
-![Website preview](./develop/assets/images/Screenshot.PNG)
+![Website preview](./assets/images/Screenshot.PNG)
 
 ## License
 
